@@ -1,5 +1,9 @@
 # Predictive Maintenance System for Industrial Equipment
 
+
+![](https://github.com/Lucky-akash321/Predictive-Maintenance-System-for-Industrial-Equipment/blob/main/how-to-implement-predictive-maintenance.png)
+
+
 ## Overview
 Predictive maintenance (PdM) is a proactive strategy that uses real-time sensor data, machine learning models, and advanced analytics to predict equipment failures before they occur. By identifying patterns and anomalies in the data, PdM allows companies to schedule maintenance activities based on actual need rather than relying on predefined maintenance intervals or waiting for equipment to fail. This approach significantly reduces unexpected downtime, optimizes maintenance resources, and maximizes the operational efficiency of critical assets. As industries increasingly adopt IoT (Internet of Things) devices, PdM systems leverage large volumes of real-time data to deliver accurate and actionable insights, driving cost savings and improving asset management.
 
