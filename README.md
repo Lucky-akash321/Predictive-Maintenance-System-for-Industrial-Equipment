@@ -52,5 +52,9 @@ The PdM process involves multiple stages, from collecting raw sensor data to dep
 - **Extended Equipment Life**: By addressing issues early, predictive maintenance helps extend the life of industrial equipment, allowing businesses to get the most value out of their assets.
 - **Improved Safety**: By preventing sudden failures, PdM reduces the likelihood of safety hazards caused by malfunctioning equipment, protecting workers and reducing the risk of accidents.
 
+
+![](https://github.com/Lucky-akash321/Predictive-Maintenance-System-for-Industrial-Equipment/blob/main/Nortech_Industrial_617366372_1200x500.jpg)
+
+
 ## Conclusion
 A predictive maintenance system is a powerful tool for modern industries seeking to enhance operational efficiency, reduce costs, and improve safety. By using real-time data from sensors, machine learning models, and advanced analytics, companies can shift from reactive maintenance to proactive management. This transformation helps to optimize equipment performance, extend asset lifecycles, and improve overall business outcomes. As technologies evolve, the potential for predictive maintenance systems to drive innovation and efficiency across industries continues to grow, making it an indispensable part of the future of industrial operations.
